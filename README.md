@@ -72,7 +72,8 @@ Input (32x32x3)
 * Trained model for 5 epochs.
 * Plotted training and validation accuracy & loss to track performance.
 
-
+![image alt](https://github.com/upangshu1234/cnn-cifar10-classifier/blob/436c035ccb19f6779fcac716b5ad13ada79556df/Screenshot%202025-07-22%20222637.png)
+![image alt](https://github.com/upangshu1234/cnn-cifar10-classifier/blob/436c035ccb19f6779fcac716b5ad13ada79556df/Screenshot%202025-07-22%20222650.png)
 
 ## ▶️ Getting Started
 
