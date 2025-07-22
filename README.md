@@ -72,14 +72,7 @@ Input (32x32x3)
 * Trained model for 5 epochs.
 * Plotted training and validation accuracy & loss to track performance.
 
-<p align="center">
-  <img src="results/accuracy_plot.png" width="400"/>
-  <img src="results/loss_plot.png" width="400"/>
-</p>
 
-> *(Include the plots in a folder named `/results` if you'd like them visible in README.)*
-
----
 
 ## ▶️ Getting Started
 
